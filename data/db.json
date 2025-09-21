@@ -1,0 +1,16 @@
+{
+  "signup": [
+    {
+      "id": "1",
+      "username": " Todo",
+      "email": "Todo@gmail.com",
+      "password": "todo"
+    },
+    {
+      "id": "a11d",
+      "email": "candidreact@gmail.com",
+      "username": "John Doe",
+      "password": "pop"
+    }
+  ]
+}
