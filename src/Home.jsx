@@ -7,7 +7,7 @@ function Home() {
       <div className='flex flex-row'> 
         <div className=' basic-1/3  mt-10 ml-10 '>
           <div className='font-bold'>Private</div>
-        <div>Home</div>
+        <div className='p-3'>Home</div>
         <div>Personal</div>
         <div>Work</div>
         <div>Diet</div>
